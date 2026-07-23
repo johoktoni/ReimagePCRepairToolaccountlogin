@@ -1,4 +1,4 @@
-project = 'Restoro'
+project = 'Reimage PC Repair Tool'
 author = 'Your Name'
 release = '1.0'
 
